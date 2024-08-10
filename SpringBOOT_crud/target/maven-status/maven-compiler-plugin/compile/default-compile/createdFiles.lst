@@ -1,0 +1,8 @@
+com\Dem\model\RegisterVO.class
+com\Dem\DAO\RegDAO.class
+com\Dem\HibernateConfiguratinon.class
+com\Dem\controller\RegController.class
+com\Dem\DAO\RegDAOImpl.class
+com\Dem\Application.class
+com\Dem\service\RegService.class
+com\Dem\service\RegServiceImpl.class
